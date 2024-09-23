@@ -1,1 +1,2 @@
-Score: 125/125
+- Score: 125/125
+- In this project, we will create our own library to understand C better as well as foundation for upcoming projects.
